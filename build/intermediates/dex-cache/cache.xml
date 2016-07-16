@@ -33,7 +33,7 @@
         jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="1cfa1233caefc309954b1b2406a74da175c128a8">
+        sha1="f7a375a91318b98b8e888e452066bb0b7a493630">
         <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_365e5e95f112bad6d0bad461ff6e457b369e1e10/classes.dex" />
     </item>
     <item
@@ -47,7 +47,7 @@
         jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="55b501bf75d96565fdf9ef59dbc7c615da2d78e2">
+        sha1="06c28f8231a1d7c02ccd996e27cb33450e616240">
         <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f458abd13a33ec140409d21a81e42204262bcb80/classes.dex" />
     </item>
     <item
