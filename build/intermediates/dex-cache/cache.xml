@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_d867f448f2428aceaae0a6e7f54d954f80ea4b45/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_961946e0bc1d754901dfba4a28f111f49abe6c88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_5a6668b703c207562391b10dd20889d3f8f4578b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_dcb6f8784a3bba4fa36e4a1db8a4d5f1408a2c46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1cfa1233caefc309954b1b2406a74da175c128a8">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_365e5e95f112bad6d0bad461ff6e457b369e1e10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_fd43303eee1b381f629e365edfa6e8aef7626b67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="55b501bf75d96565fdf9ef59dbc7c615da2d78e2">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f458abd13a33ec140409d21a81e42204262bcb80/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ojasvi/AndroidStudioProjects/kinAyn/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_714fd5576ee6e4a4bcb794878b2fbc9040e839c1/classes.dex" />
+    </item>
+
+</items>
