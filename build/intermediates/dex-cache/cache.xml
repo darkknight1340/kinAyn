@@ -5,7 +5,7 @@
         jar="/Users/avanid/AndroidStudioProjects/easykhata/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="9b0a56286b5bd57bea7ad9c1c7a745d0a3924342">
+        sha1="408c7304aa1fe2ef7de3244febae24a8ba1f4849">
         <dex dex="/Users/avanid/AndroidStudioProjects/easykhata/app/build/intermediates/pre-dexed/debug/instant-run_fc2e95f79dc358b2a5cc38ec0c435a55f506d36a.jar" />
     </item>
     <item
@@ -40,7 +40,7 @@
         jar="/Users/avanid/AndroidStudioProjects/easykhata/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="9354ea1acf6ebfbec160f8ecea4350d7d9210d67">
+        sha1="c691c014e2ef458e75df57dff6d5642606129e04">
         <dex dex="/Users/avanid/AndroidStudioProjects/easykhata/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_65b34679453d603c61dcff2315508c098d5241d0.jar" />
     </item>
     <item
